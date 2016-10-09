@@ -1,13 +1,13 @@
 Name: Free UPX
-Version: 2.0
+Version: 2.1
 License: Freeware
-Release date: May 26, 2016
+Release date: Sep 23, 2016
 Author: Jacek Pazera
 Web page: http://www.pazera-software.com/products/free-upx/
 Help page: http://www.pazera-software.com/products/free-upx/quickstart.php
 -----------------------------------------------
 UPX authors: Markus Oberhumer, Laszlo Molnar & John Reiser
-UPX page: http://upx.sourceforge.net/
+UPX page: https://upx.github.io/
 
 ////////////////////////////////////////////////////////////////////////////////
 
