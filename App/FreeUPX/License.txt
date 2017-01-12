@@ -7,4 +7,4 @@ Permission is granted to anyone to use this software for any purpose, including 
 This notice may not be removed or altered from any distribution.
 
 
-Copyright (C) 2010-2016 Pazera Jacek. All rights reserved.
+Copyright (C) 2010-2017 Pazera Jacek. All rights reserved.
