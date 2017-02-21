@@ -1,7 +1,7 @@
 Name: Free UPX
-Version: 2.2
+Version: 2.3
 License: Freeware
-Release date: Jan 11, 2017
+Release date: Feb 17, 2017
 Author: Jacek Pazera
 Web page: http://www.pazera-software.com/products/free-upx/
 Help page: http://www.pazera-software.com/products/free-upx/quickstart.php
